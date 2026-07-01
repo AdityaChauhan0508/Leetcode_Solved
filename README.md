@@ -20,15 +20,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
