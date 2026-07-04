@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
+| [0135-candy](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
