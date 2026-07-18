@@ -1,22 +1,21 @@
 class Solution {
-    public int rob(int[] nums) { //time = O(n), space = O(1) {space optimization}
+    public int rob(int[] nums) { //time = O(n), space = O(n)
 
         int n = nums.length;
 
         if(n == 1) return nums[0];
 
-        int prev1 = nums[0];
-        int prev2 = Math.max(nums[0] , nums[1]);
+        int[] dp = new int[n];
 
-        int result = prev2;
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[0] , nums[1]);
+
+
 
         for(int i=2; i<n; i++) {
-            result = Math.max(prev2 , prev1 + nums[i]);
-
-            prev1 = prev2;
-            prev2 = result;
+            dp[i] = Math.max(dp[i-1], dp[i-2] + nums[i]);
         }
         
-        return result;
+        return dp[n-1];
     }
 }
