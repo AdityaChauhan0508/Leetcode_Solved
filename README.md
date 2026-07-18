@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
 | [1288-remove-covered-intervals](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
