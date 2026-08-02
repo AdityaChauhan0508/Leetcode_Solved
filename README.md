@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1331-rank-transform-of-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -248,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
