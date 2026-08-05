@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -273,4 +274,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1406-stone-game-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
