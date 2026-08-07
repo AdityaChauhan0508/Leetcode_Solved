@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
