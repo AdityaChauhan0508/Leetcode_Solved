@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -351,9 +352,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
