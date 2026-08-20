@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
