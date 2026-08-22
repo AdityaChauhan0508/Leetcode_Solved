@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
