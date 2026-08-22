@@ -5,6 +5,7 @@ class Solution {
         
         int sum = 0, product = 1;
         int totalSum = 0;
+        
         while(num > 0) {
 
             int digit = num % 10;
