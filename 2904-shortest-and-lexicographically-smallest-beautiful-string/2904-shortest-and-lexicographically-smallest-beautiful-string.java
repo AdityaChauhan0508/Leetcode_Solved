@@ -16,10 +16,10 @@ class Solution {
             // We have exactly k ones
             while (ones == k) {
 
-                // // Remove unnecessary leading zeros
-                // while (left < right && s.charAt(left) == '0') {
-                //     left++;
-                // }
+                // Remove unnecessary leading zeros
+                while (left < right && s.charAt(left) == '0') {
+                    left++;
+                }
 
                 String curr = s.substring(left, right + 1);
 
