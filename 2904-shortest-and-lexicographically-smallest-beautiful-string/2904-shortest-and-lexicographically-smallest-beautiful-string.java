@@ -1,34 +1,43 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
+
+        int left = 0;
+        int ones = 0;
+
         String ans = "";
-        int n = s.length();
 
-        for (int i = 0; i < n; i++) {
+        for (int right = 0; right < s.length(); right++) {
 
-            int oneCnt = 0;
-            StringBuilder cur = new StringBuilder();
+            // Add current character
+            if (s.charAt(right) == '1') {
+                ones++;
+            }
 
-            for (int j = i; j < n; j++) {
+            // We have exactly k ones
+            while (ones == k) {
 
-                cur.append(s.charAt(j));
+                // // Remove unnecessary leading zeros
+                // while (left < right && s.charAt(left) == '0') {
+                //     left++;
+                // }
 
-                if (s.charAt(j) == '1')
-                    oneCnt++;
+                String curr = s.substring(left, right + 1);
 
-                // More than k ones can never become valid again
-                if (oneCnt > k)
-                    break;
+                // Update answer
+                if (ans.equals("")
+                        || curr.length() < ans.length()
+                        || (curr.length() == ans.length()
+                            && curr.compareTo(ans) < 0)) {
 
-                if (oneCnt == k) {
-                    String curStr = cur.toString();
-
-                    if (ans.isEmpty() ||
-                        curStr.length() < ans.length() ||
-                        (curStr.length() == ans.length() && curStr.compareTo(ans) < 0)) {
-
-                        ans = curStr;
-                    }
+                    ans = curr;
                 }
+
+                // Move left past the first 1
+                if (s.charAt(left) == '1') {
+                    ones--;
+                }
+
+                left++;
             }
         }
 
