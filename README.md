@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1331-rank-transform-of-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -437,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
