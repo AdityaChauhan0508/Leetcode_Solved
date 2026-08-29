@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
