@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
