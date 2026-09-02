@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1288-remove-covered-intervals) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
