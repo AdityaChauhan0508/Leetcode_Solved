@@ -1,18 +1,19 @@
 class Solution {
-    public int missingNumber(int[] nums) { 
-        
-    //xor
-    //XOR(all expected numbers)
-    //         ^
-    //XOR(all array numbers)
-    //         ↓
-    //missing number
+    public int missingNumber(int[] nums) {
 
-    int res = nums.length;
-    for(int i=0; i<nums.length; i++){
-        res ^= i;   //XOR(all expected numbers)
-        res ^= nums[i];     //XOR(all array numbers)
-    }
-    return res;
+        int n = nums.length;
+        int xor = 0;
+
+        // XOR all numbers from 0 to n
+        for (int i = 0; i <= n; i++) {
+            xor ^= i;
+        }
+
+        // XOR all numbers present in the array
+        for (int num : nums) {
+            xor ^= num;
+        }
+
+        return xor;
     }
 }
