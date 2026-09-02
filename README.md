@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
