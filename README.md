@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1386-cinema-seat-allocation) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
