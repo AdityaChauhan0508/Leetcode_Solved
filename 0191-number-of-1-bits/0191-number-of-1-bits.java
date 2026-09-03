@@ -6,7 +6,7 @@ class Solution {
         while(n > 0) {
 
             count += n % 2; //Step 1 - check
-            n /= 2;  //Step 2 - Discard
+            n = n >> 1;  //Step 2 - We replaced division with a right shift.
         }
         return count;
     }
