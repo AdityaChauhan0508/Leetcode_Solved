@@ -1,27 +1,34 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-
-        //Brute force Approach T.C = O(n^2)
+        // T.C = O(n), S.C = O(n)
 
         int n = nums.length;
-        for(int i=0; i<n; i++) {
 
-            int maxEl = Integer.MIN_VALUE;
-            int minEl = Integer.MAX_VALUE;
+        int[] minFromIndex = new int[n];
 
-            for(int j=0; j<=i; j++) {
-                maxEl = Math.max(maxEl, nums[j]);
-            }
+        int minEl = Integer.MAX_VALUE;
 
-            for(int j=i; j<=n-1; j++) {
-                minEl = Math.min(minEl, nums[j]);
-            }
+        // Build suffix minimum array
+        for(int i = n - 1; i >= 0; i--) {
+
+            minEl = Math.min(minEl, nums[i]);
+            minFromIndex[i] = minEl;
+        }
+
+        int maxEl = Integer.MIN_VALUE;
+
+        // Traverse from left to right
+        for(int i = 0; i < n; i++) {
+
+            maxEl = Math.max(maxEl, nums[i]);
+
+            minEl = minFromIndex[i];
 
             if(maxEl - minEl <= k) {
                 return i;
             }
-            
         }
+
         return -1;
     }
 }
