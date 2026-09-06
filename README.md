@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0420-strong-password-checker](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0420-strong-password-checker) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
