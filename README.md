@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0420-strong-password-checker](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1406-stone-game-iii) |
