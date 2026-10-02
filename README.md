@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
