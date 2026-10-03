@@ -3,16 +3,16 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         int res = 0;
         st.push(-1);
-
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(') {
+        for(int i=0;i<s.length();i++) {
+            if(s.charAt(i) == '(') {
                 st.push(i);
-            } else {
+            }
+            else {
                 st.pop();
-                if (st.isEmpty())
+                if(st.isEmpty())
                     st.push(i);
                 else
-                    res = Math.max(res, i - st.peek());
+                    res = Math.max(res,i-st.peek());
             }
         }
         return res;
