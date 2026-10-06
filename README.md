@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
