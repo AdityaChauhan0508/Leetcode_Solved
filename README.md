@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0420-strong-password-checker](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2685-count-the-number-of-complete-components) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
