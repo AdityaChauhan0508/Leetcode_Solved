@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0342-power-of-four) |
