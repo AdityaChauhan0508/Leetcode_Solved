@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
 |  |
 | ------- |
