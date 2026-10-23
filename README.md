@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0135-candy](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0420-strong-password-checker) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0678-valid-parenthesis-string) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
