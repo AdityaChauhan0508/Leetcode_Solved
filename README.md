@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1140-stone-game-ii) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
 | ------- |
