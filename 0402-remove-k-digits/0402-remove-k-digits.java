@@ -1,7 +1,7 @@
 class Solution {
     public String removeKdigits(String num, int k) {
 
-        if(num.length() <= 0) return "0";
+        //if(num.length() <= 0) return "0";
 
         Stack<Character> st = new Stack<>();
 
