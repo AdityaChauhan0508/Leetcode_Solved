@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0303-range-sum-query-immutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1096-brace-expansion-ii) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
