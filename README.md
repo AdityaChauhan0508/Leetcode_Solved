@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0303-range-sum-query-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1096-brace-expansion-ii) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0836-rectangle-overlap) |
