@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -576,17 +578,20 @@ A collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0406-queue-reconstruction-by-height) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -671,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ordered Set
 |  |
 | ------- |
@@ -743,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
