@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3483-unique-3-digit-even-numbers) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3904-smallest-stable-index-ii) |
