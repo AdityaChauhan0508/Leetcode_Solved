@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -785,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/1352-product-of-the-last-k-numbers) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AdityaChauhan0508/Leetcode_Solved/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
